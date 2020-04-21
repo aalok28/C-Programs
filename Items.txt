@@ -1,0 +1,12 @@
+Name: Brush
+Price: 20
+Quantity: 10
+
+Name: Paste
+Price: 30
+Quantity: 5
+
+Name: Towel
+Price: 50
+Quantity: 5
+
